@@ -231,7 +231,7 @@ footer a {
   height: 150px;
   width: 100%;
   max-width: 300px;
-  background-color: #372122;
+  background-color: #452a2b;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
@@ -245,6 +245,6 @@ footer a {
 .modal-contents button {
   padding: 10px;
   background-color: var(--red);
-  color: #2a4544;
+  color: #452a2b;
   border-radius: 3px;
 }
